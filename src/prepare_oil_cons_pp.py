@@ -57,6 +57,13 @@ oil_consumption_north_america = []
 oil_consumption_south_america =[]
 oil_consumption_oceania = []
 oil_consumption_years = []
+COUNTRIES_ASIA = []
+COUNTRIES_AFRICA = []
+COUNTRIES_EUROPE = []
+COUNTRIES_NA = []
+COUNTRIES_SA = []
+COUNTRIES_OCEANIA = []
+
 for i in range(len(oil_data)):
     oil_consumption_ASIA = 0
     oil_consumption_AFRICA = 0
@@ -64,19 +71,49 @@ for i in range(len(oil_data)):
     oil_consumption_NA = 0
     oil_consumption_SA = 0
     oil_consumption_OCEANIA = 0
+    countries_asia = 0
+    countries_africa = 0
+    countries_europe = 0
+    countries_na = 0
+    countries_sa = 0
+    countries_oceania = 0
     for country in countries:
         if country in Asia:
             oil_consumption_ASIA += oil_data[str(country)][i]
+            if oil_data[str(country)][i] != 0:
+                countries_asia += 1
+            else:
+                pass
         elif country in Africa:
             oil_consumption_AFRICA += oil_data[str(country)][i]
+            if oil_data[str(country)][i] != 0:
+                countries_africa += 1
+            else:
+                pass
         elif country in Europe:
             oil_consumption_EUROPE += oil_data[str(country)][i]
+            if oil_data[str(country)][i] != 0:
+                countries_europe += 1
+            else:
+                pass
         elif country in North_America:
             oil_consumption_NA += oil_data[str(country)][i]
+            if oil_data[str(country)][i] != 0:
+                countries_na += 1
+            else:
+                pass
         elif country in South_America:
             oil_consumption_SA += oil_data[str(country)][i]
+            if oil_data[str(country)][i] != 0:
+                countries_sa += 1
+            else:
+                pass
         elif country in Oceania:
             oil_consumption_OCEANIA += oil_data[str(country)][i]
+            if oil_data[str(country)][i] != 0:
+                countries_oceania += 1
+            else:
+                pass
         else:
             print("F*** country is missing!!!")
             print(country)
@@ -87,7 +124,12 @@ for i in range(len(oil_data)):
     oil_consumption_south_america.append(oil_consumption_SA)
     oil_consumption_oceania.append(oil_consumption_OCEANIA)
     oil_consumption_years.append(oil_data.index[i])
-
+    COUNTRIES_ASIA.append(countries_asia)
+    COUNTRIES_AFRICA.append(countries_africa)
+    COUNTRIES_EUROPE.append(countries_europe)
+    COUNTRIES_NA.append(countries_na)
+    COUNTRIES_SA.append(countries_sa)
+    COUNTRIES_OCEANIA.append(countries_oceania)
 # Add new columns to the Data
 oil_cons_cleaned = oil_data
 oil_cons_cleaned["Oil_Cons_Asia_pp"] = oil_consumption_asia
@@ -96,6 +138,11 @@ oil_cons_cleaned["Oil_Cons_Europe_pp"] = oil_consumption_europe
 oil_cons_cleaned["Oil_Cons_NA_pp"] = oil_consumption_north_america
 oil_cons_cleaned["Oil_Cons_SA_pp"] = oil_consumption_south_america
 oil_cons_cleaned["Oil_Cons_Oceania_pp"] = oil_consumption_oceania
-
+oil_cons_cleaned["People_Asia"] = COUNTRIES_ASIA
+oil_cons_cleaned["People_Africa"] = COUNTRIES_AFRICA
+oil_cons_cleaned["People_Europe"] = COUNTRIES_EUROPE
+oil_cons_cleaned["People_NA"] = COUNTRIES_NA
+oil_cons_cleaned["Peolpe_SA"] = COUNTRIES_SA
+oil_cons_cleaned["People_Oceania"] = COUNTRIES_OCEANIA
 # Export new Dataframe
 oil_cons_cleaned.to_csv("data/oil_cons_per_person.csv")
