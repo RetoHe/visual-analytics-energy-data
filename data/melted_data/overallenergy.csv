@@ -1,0 +1,295 @@
+,Year,Value,Variety,Continent
+0,1990,Coal,1244032,Europe
+1,1995,Coal,1119088,Europe
+2,2000,Coal,1121923,Europe
+3,2005,Coal,1166373,Europe
+4,2010,Coal,1067948,Europe
+5,2015,Coal,1038043,Europe
+6,2018,Coal,890941,Europe
+7,1990,Coal,990313,Asia
+8,1995,Coal,1522623,Asia
+9,2000,Coal,2159105,Asia
+10,2005,Coal,3368081,Asia
+11,2010,Coal,4954627,Asia
+12,2015,Coal,6376008,Asia
+13,2018,Coal,7331682,Asia
+14,1990,Coal,1789642,North America
+15,1995,Coal,1935372,North America
+16,2000,Coal,2266080,North America
+17,2005,Coal,2287284,North America
+18,2010,Coal,2106017,North America
+19,2015,Coal,1566860,North America
+20,2018,Coal,1351824,North America
+21,1990,Coal,16090,South America
+22,1995,Coal,18717,South America
+23,2000,Coal,24128,South America
+24,2005,Coal,25744,South America
+25,2010,Coal,38738,South America
+26,2015,Coal,72408,South America
+27,2018,Coal,67044,South America
+28,1990,Coal,272957,Oceania
+29,1995,Coal,375675,Oceania
+30,2000,Coal,539146,Oceania
+31,2005,Coal,665402,Oceania
+32,2010,Coal,746752,Oceania
+33,2015,Coal,780569,Oceania
+34,2018,Coal,729390,Oceania
+35,1990,Coal,164378,Africa
+36,1995,Coal,186509,Africa
+37,2000,Coal,208651,Africa
+38,2005,Coal,249540,Africa
+39,2010,Coal,259289,Africa
+40,2015,Coal,254730,Africa
+41,2018,Coal,260201,Africa
+42,1990,Oil,313578,Europe
+43,1995,Oil,266264,Europe
+44,2000,Oil,208167,Europe
+45,2005,Oil,157769,Europe
+46,2010,Oil,93421,Europe
+47,2015,Oil,69628,Europe
+48,2018,Oil,58453,Europe
+49,1990,Oil,435951,Asia
+50,1995,Oil,450315,Asia
+51,2000,Oil,377974,Asia
+52,2005,Oil,350241,Asia
+53,2010,Oil,268941,Asia
+54,2015,Oil,233685,Asia
+55,2018,Oil,174644,Asia
+56,1990,Oil,209179,North America
+57,1995,Oil,166923,North America
+58,2000,Oil,226771,North America
+59,2005,Oil,225408,North America
+60,2010,Oil,101011,North America
+61,2015,Oil,78324,North America
+62,2018,Oil,84197,North America
+63,1990,Oil,66941,South America
+64,1995,Oil,76788,South America
+65,2000,Oil,104367,South America
+66,2005,Oil,119009,South America
+67,2010,Oil,147906,South America
+68,2015,Oil,161051,South America
+69,2018,Oil,98130,South America
+70,1990,Oil,283025,Oceania
+71,1995,Oil,260562,Oceania
+72,2000,Oil,183913,Oceania
+73,2005,Oil,171025,Oceania
+74,2010,Oil,123101,Oceania
+75,2015,Oil,117458,Oceania
+76,2018,Oil,68213,Oceania
+77,1990,Oil,40662,Africa
+78,1995,Oil,37684,Africa
+79,2000,Oil,36761,Africa
+80,2005,Oil,51107,Africa
+81,2010,Oil,64105,Africa
+82,2015,Oil,89878,Africa
+83,2018,Oil,66726,Africa
+84,1990,Natural gas,281753,Europe
+85,1995,Natural gas,341868,Europe
+86,2000,Natural gas,586588,Europe
+87,2005,Natural gas,818584,Europe
+88,2010,Natural gas,946705,Europe
+89,2015,Natural gas,682912,Europe
+90,2018,Natural gas,819543,Europe
+91,1990,Natural gas,257461,Asia
+92,1995,Natural gas,398996,Asia
+93,2000,Natural gas,595337,Asia
+94,2005,Natural gas,789891,Asia
+95,2010,Natural gas,1149656,Asia
+96,2015,Natural gas,1361424,Asia
+97,2018,Natural gas,1475911,Asia
+98,1990,Natural gas,405783,North America
+99,1995,Natural gas,574554,North America
+100,2000,Natural gas,711891,North America
+101,2005,Natural gas,924416,North America
+102,2010,Natural gas,1216746,North America
+103,2015,Natural gas,1623460,North America
+104,2018,Natural gas,1784756,North America
+105,1990,Natural gas,43648,South America
+106,1995,Natural gas,59589,South America
+107,2000,Natural gas,97057,South America
+108,2005,Natural gas,131520,South America
+109,2010,Natural gas,178078,South America
+110,2015,Natural gas,268998,South America
+111,2018,Natural gas,246309,South America
+112,1990,Natural gas,198121,Oceania
+113,1995,Natural gas,237823,Oceania
+114,2000,Natural gas,313612,Oceania
+115,2005,Natural gas,348646,Oceania
+116,2010,Natural gas,505378,Oceania
+117,2015,Natural gas,624705,Oceania
+118,2018,Natural gas,595016,Oceania
+119,1990,Natural gas,45131,Africa
+120,1995,Natural gas,66519,Africa
+121,2000,Natural gas,106398,Africa
+122,2005,Natural gas,155857,Africa
+123,2010,Natural gas,220265,Africa
+124,2015,Natural gas,279261,Africa
+125,2018,Natural gas,334466,Africa
+126,1990,Nuclear,894678,Europe
+127,1995,Nuclear,976239,Europe
+128,2000,Nuclear,1048780,Europe
+129,2005,Nuclear,1109796,Europe
+130,2010,Nuclear,1032101,Europe
+131,2015,Nuclear,967736,Europe
+132,2018,Nuclear,936917,Europe
+133,1990,Nuclear,294459,Asia
+134,1995,Nuclear,414897,Asia
+135,2000,Nuclear,505153,Asia
+136,2005,Nuclear,564402,Asia
+137,2010,Nuclear,582021,Asia
+138,2015,Nuclear,423478,Asia
+139,2018,Nuclear,569385,Asia
+140,1990,Nuclear,687493,North America
+141,1995,Nuclear,820093,North America
+142,2000,Nuclear,878738,North America
+143,2005,Nuclear,913571,North America
+144,2010,Nuclear,935468,North America
+145,2015,Nuclear,943674,North America
+146,2018,Nuclear,955735,North America
+147,1990,Nuclear,9518,South America
+148,1995,Nuclear,9585,South America
+149,2000,Nuclear,12223,South America
+150,2005,Nuclear,16728,South America
+151,2010,Nuclear,21694,South America
+152,2015,Nuclear,21773,South America
+153,2018,Nuclear,22576,South America
+154,1990,Nuclear,255159,Oceania
+155,1995,Nuclear,358283,Oceania
+156,2000,Nuclear,431014,Oceania
+157,2005,Nuclear,451534,Oceania
+158,2010,Nuclear,436826,Oceania
+159,2015,Nuclear,174199,Oceania
+160,2018,Nuclear,209689,Oceania
+161,1990,Nuclear,8449,Africa
+162,1995,Nuclear,11301,Africa
+163,2000,Nuclear,13010,Africa
+164,2005,Nuclear,11293,Africa
+165,2010,Nuclear,12099,Africa
+166,2015,Nuclear,12237,Africa
+167,2018,Nuclear,11580,Africa
+168,1990,Hydro,514106,Europe
+169,1995,Hydro,581527,Europe
+170,2000,Hydro,637769,Europe
+171,2005,Hydro,604337,Europe
+172,2010,Hydro,674509,Europe
+173,2015,Hydro,664632,Europe
+174,2018,Hydro,672950,Europe
+175,1990,Hydro,417340,Asia
+176,1995,Hydro,500993,Asia
+177,2000,Hydro,537320,Asia
+178,2005,Hydro,752856,Asia
+179,2010,Hydro,1133099,Asia
+180,2015,Hydro,1597358,Asia
+181,2018,Hydro,1792524,Asia
+182,1990,Hydro,609286,North America
+183,1995,Hydro,701418,North America
+184,2000,Hydro,671739,North America
+185,2005,Hydro,687666,North America
+186,2010,Hydro,674925,North America
+187,2015,Hydro,684210,North America
+188,2018,Hydro,735591,North America
+189,1990,Hydro,363195,South America
+190,1995,Hydro,464038,South America
+191,2000,Hydro,551018,South America
+192,2005,Hydro,622010,South America
+193,2010,Hydro,694383,South America
+194,2015,Hydro,667513,South America
+195,2018,Hydro,713196,South America
+196,1990,Hydro,141460,Oceania
+197,1995,Hydro,141839,Oceania
+198,2000,Hydro,143611,Oceania
+199,2005,Hydro,130504,Oceania
+200,2010,Hydro,135457,Oceania
+201,2015,Hydro,135063,Oceania
+202,2018,Hydro,135789,Oceania
+203,1990,Hydro,57918,Africa
+204,1995,Hydro,61572,Africa
+205,2000,Hydro,77817,Africa
+206,2005,Hydro,92952,Africa
+207,2010,Hydro,113078,Africa
+208,2015,Hydro,124209,Africa
+209,2018,Hydro,136074,Africa
+210,1990,Solar PV,16,Europe
+211,1995,Solar PV,53,Europe
+212,2000,Solar PV,125,Europe
+213,2005,Solar PV,1488,Europe
+214,2010,Solar PV,22668,Europe
+215,2015,Solar PV,105745,Europe
+216,2018,Solar PV,135642,Europe
+217,1990,Solar PV,70,Asia
+218,1995,Solar PV,132,Asia
+219,2000,Solar PV,433,Asia
+220,2005,Solar PV,1620,Asia
+221,2010,Solar PV,5620,Asia
+222,2015,Solar PV,103279,Asia
+223,2018,Solar PV,309461,Asia
+224,1990,Solar PV,4,North America
+225,1995,Solar PV,13,North America
+226,2000,Solar PV,206,North America
+227,2005,Solar PV,550,North America
+228,2010,Solar PV,3349,North America
+229,2015,Solar PV,35225,North America
+230,2018,Solar PV,86896,North America
+231,1990,Solar PV,805,South America
+232,1995,Solar PV,1221,South America
+233,2000,Solar PV,2098,South America
+234,2005,Solar PV,2636,South America
+235,2010,Solar PV,3274,South America
+236,2015,Solar PV,3857,South America
+237,2018,Solar PV,4124,South America
+238,1990,Solar PV,68,Oceania
+239,1995,Solar PV,124,Oceania
+240,2000,Solar PV,400,Oceania
+241,2005,Solar PV,1514,Oceania
+242,2010,Solar PV,4775,Oceania
+243,2015,Solar PV,44948,Oceania
+244,2018,Solar PV,104703,Oceania
+245,1990,Solar PV,0,Africa
+246,1995,Solar PV,6,Africa
+247,2000,Solar PV,232,Africa
+248,2005,Solar PV,819,Africa
+249,2010,Solar PV,2373,Africa
+250,2015,Solar PV,8555,Africa
+251,2018,Solar PV,14171,Africa
+252,1990,Other sources,348,Europe
+253,1995,Other sources,823,Europe
+254,2000,Other sources,1502,Europe
+255,2005,Other sources,10553,Europe
+256,2010,Other sources,4632,Europe
+257,2015,Other sources,6184,Europe
+258,2018,Other sources,6052,Europe
+259,1990,Other sources,19591,Asia
+260,1995,Other sources,23041,Asia
+261,2000,Other sources,20068,Asia
+262,2005,Other sources,20836,Asia
+263,2010,Other sources,21263,Asia
+264,2015,Other sources,21956,Asia
+265,2018,Other sources,21006,Asia
+266,1990,Other sources,26,North America
+267,1995,Other sources,33,North America
+268,2000,Other sources,32,North America
+269,2005,Other sources,28,North America
+270,2010,Other sources,28,North America
+271,2015,Other sources,13,North America
+272,2018,Other sources,20,North America
+273,1990,Other sources,0,South America
+274,1995,Other sources,0,South America
+275,2000,Other sources,372,South America
+276,2005,Other sources,805,South America
+277,2010,Other sources,495,South America
+278,2015,Other sources,390,South America
+279,2018,Other sources,447,South America
+280,1990,Other sources,0,Oceania
+281,1995,Other sources,0,Oceania
+282,2000,Other sources,0,Oceania
+283,2005,Other sources,1,Oceania
+284,2010,Other sources,3,Oceania
+285,2015,Other sources,4,Oceania
+286,2018,Other sources,4,Oceania
+287,1990,Other sources,0,Africa
+288,1995,Other sources,0,Africa
+289,2000,Other sources,0,Africa
+290,2005,Other sources,0,Africa
+291,2010,Other sources,0,Africa
+292,2015,Other sources,194,Africa
+293,2018,Other sources,1978,Africa
