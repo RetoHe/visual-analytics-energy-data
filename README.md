@@ -9,3 +9,5 @@ You can find the rawdata in the directory data/raw/ .
 With the scrips in the directory src/ I have cleaned, aggregated and prepared the raw datasets and saved them in data/ .
 
 The final preparation of the data, for the use with altair, happened in the notebooks/main-data-preparation.pynb file. The datasets for creating the altair charts were saved into data/melted_data/  and can be used directly with altair.
+
+![Alt text](img/Ohne Titel.png raw=true "Title")
