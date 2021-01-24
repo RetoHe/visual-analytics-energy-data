@@ -17,3 +17,6 @@ The final preparation of the data, for the use with altair, happened in the note
 - Asia is the continent with the highest Electricity Generation.
 - The energyconsumption of Asia and Africa are both increasing.
 - The coal consumption is decreasing in Europe and North America.
+
+
+![Global Oil Consumption](img/Oil_Cons_global.jpg)
