@@ -20,3 +20,11 @@ The final preparation of the data, for the use with altair, happened in the note
 
 
 ![Oil Consumption per Continent](img/Oil_Cons_global.png)
+
+
+
+![Energymix per Continent](img/energy_mix.png)
+
+
+
+![Global Electricity Generation](img/electricity_generation_global.png)
