@@ -28,3 +28,7 @@ The final preparation of the data, for the use with altair, happened in the note
 
 
 ![Global Electricity Generation](img/electricity_generation_global.png)
+
+# Here you can find more data visualisations:
+
+  notebooks/Energy-Data-Visualizations.ipynb
