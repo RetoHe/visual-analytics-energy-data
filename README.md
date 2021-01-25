@@ -31,4 +31,4 @@ The final preparation of the data, for the use with altair, happened in the note
 
 # Here you can find more data visualisations:
 
-  notebooks/Energy-Data-Visualizations.ipynb
+  [Data Visualisation Notebook](https://github.com/RetoHe/visual-analytics-energy-data/blob/main/notebooks/Energy-Data-Visualizations.ipynb)
