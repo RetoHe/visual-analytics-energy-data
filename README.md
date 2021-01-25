@@ -19,4 +19,4 @@ The final preparation of the data, for the use with altair, happened in the note
 - The coal consumption is decreasing in Europe and North America.
 
 
-![alt text](img/Oil_Cons_global.jpg)
+![Oil Consumption per Continent](img/Oil_Cons_global.png)
