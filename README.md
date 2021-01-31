@@ -24,7 +24,7 @@ After downloading the raw data, it was necessary to clean the data, because in t
 
 The final preparation of the data, for the use with altair, happened in the notebooks/main-data-preparation.pynb file. The datasets for creating the altair charts were saved into data/melted_data/  and can be used directly with altair.
 
-
+## Here a few examples of my visualizations:
 
 ![Oil Consumption per Continent](img/Oil_Cons_global.png)
 
