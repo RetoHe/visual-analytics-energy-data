@@ -1,13 +1,13 @@
-,Year,Continent,Hydropower per Person
-0,1985,Asia,1.16
-25,2010,Asia,2.92
-27,1985,Africa,1.82
-52,2010,Africa,1.8
-54,1985,Europe,22.26
-79,2010,Europe,23.68
-81,1985,North America,38.02
-106,2010,North America,32.96
-108,1985,South America,5.15
-133,2010,South America,10.4
-135,1985,Oceania,29.62
-160,2010,Oceania,26.7
+Year,Continent,Hydropower per Person
+1985,Asia,1.16
+2010,Asia,2.92
+1985,Africa,1.82
+2010,Africa,1.8
+1985,Europe,22.26
+2010,Europe,23.68
+1985,North America,38.02
+2010,North America,32.96
+1985,South America,5.15
+2010,South America,10.4
+1985,Oceania,29.62
+2010,Oceania,26.7
