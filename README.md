@@ -24,6 +24,12 @@ After downloading the raw data, it was necessary to clean the data, because in t
 
 The final preparation of the data, for the use with altair, happened in the notebooks/main-data-preparation.pynb file. The datasets for creating the altair charts were saved into data/melted_data/  and can be used directly with altair.
 
+## Visualizations:
+
+I have used the library Altair for my data visualizations. Altair is a statistical visualization library for Python, based on Vega and Vega-Lite, and the source is available on GitHub (https://altair-viz.github.io/index.html).
+
+With my visualization I wanted to show how the energy production and consumption has changed in the past 50 years in different parts of the world. Therefore I have used many different interactive line-, bar- and area charts.
+
 ## Here a few examples of my visualizations:
 
 ![Oil Consumption per Continent](img/Oil_Cons_global.png)
@@ -36,6 +42,15 @@ The final preparation of the data, for the use with altair, happened in the note
 
 ![Global Electricity Generation](img/electricity_generation_global.png)
 
-# Here you can find more data visualisations:
+## Insights:
+
+Through the different visualizations I was able to prove some of my hypothesis wrong and others right and found some interesting other insights:
+
+- The Energy Consumption is not fair distributed, which can be seen in the huge differences in the consumption per person and in the absolut consumption. Although countries like China consume in total so much energy. Per person they consume so much less than we do in Europe or in North America or Australia.
+- In most countries, outside of Asia has the peak of the oil and coal consumption already been reached.
+- South America is having the highest percentage of Hydro Power in their Energy Mix.
+
+# Here you can find more data visualizations:
 
   [Data Visualisation Notebook](https://github.com/RetoHe/visual-analytics-energy-data/blob/main/notebooks/Energy-Data-Visualizations.ipynb)
+
